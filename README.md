@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+This project is just a test to play around with Git and Gituhub
+
+Also checkout my profile [here](https://github.com/fippy)
+
+![blank-profile-pic](https://user-images.githubusercontent.com/4941813/158994277-72f67fc5-ce46-40ce-9113-77131dfb580a.jpg)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
